@@ -1,0 +1,7 @@
+{
+    "version": 20200513,
+    "zip-command": "zip chat_bot1.zip chat_bot1\/app.json chat_bot1\/entities\/*.json chat_bot1\/intents\/*.json chat_bot1\/traits\/*.json chat_bot1\/utterances\/*.json chat_bot1\/composer\/*.json",
+    "name": "chat_bot1",
+    "lang": "en",
+    "timezone": "America\/Los_Angeles"
+}

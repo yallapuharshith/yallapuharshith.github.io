@@ -1,0 +1,30 @@
+{
+    "name": "object4",
+    "roles": [
+        "object4"
+    ],
+    "lookups": [
+        "free-text",
+        "keywords"
+    ],
+    "keywords": [
+        {
+            "keyword": "faculty",
+            "synonyms": [
+                "faculty"
+            ]
+        },
+        {
+            "keyword": "fee",
+            "synonyms": [
+                "fee"
+            ]
+        },
+        {
+            "keyword": "subjects",
+            "synonyms": [
+                "subjects"
+            ]
+        }
+    ]
+}

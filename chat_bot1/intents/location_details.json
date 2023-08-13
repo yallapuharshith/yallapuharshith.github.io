@@ -1,0 +1,8 @@
+{
+    "name": "location_details",
+    "entities": [
+        "object1:object1",
+        "object1:object2",
+        "object_2:object_2"
+    ]
+}

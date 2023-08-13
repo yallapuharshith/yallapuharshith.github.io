@@ -1,0 +1,9 @@
+{
+    "name": "information",
+    "entities": [
+        "object1:object1",
+        "object1:object2",
+        "object4:object4",
+        "object_2:object_2"
+    ]
+}

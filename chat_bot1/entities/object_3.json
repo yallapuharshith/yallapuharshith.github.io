@@ -1,0 +1,36 @@
+{
+    "name": "object_3",
+    "roles": [
+        "object_3"
+    ],
+    "lookups": [
+        "free-text",
+        "keywords"
+    ],
+    "keywords": [
+        {
+            "keyword": "mid",
+            "synonyms": [
+                "mid"
+            ]
+        },
+        {
+            "keyword": "sem",
+            "synonyms": [
+                "sem"
+            ]
+        },
+        {
+            "keyword": "supplementary",
+            "synonyms": [
+                "supplementary"
+            ]
+        },
+        {
+            "keyword": "supply",
+            "synonyms": [
+                "supply"
+            ]
+        }
+    ]
+}

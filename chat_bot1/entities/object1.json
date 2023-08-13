@@ -1,0 +1,68 @@
+{
+    "name": "object1",
+    "roles": [
+        "object1",
+        "object2"
+    ],
+    "lookups": [
+        "free-text",
+        "keywords"
+    ],
+    "keywords": [
+        {
+            "keyword": "4-1",
+            "synonyms": [
+                "4-1"
+            ]
+        },
+        {
+            "keyword": "IT",
+            "synonyms": [
+                "it"
+            ]
+        },
+        {
+            "keyword": "canteen",
+            "synonyms": [
+                "canteen"
+            ]
+        },
+        {
+            "keyword": "civil",
+            "synonyms": [
+                "civil",
+                "civil informatio"
+            ]
+        },
+        {
+            "keyword": "college",
+            "synonyms": [
+                "college"
+            ]
+        },
+        {
+            "keyword": "cse",
+            "synonyms": [
+                "cse"
+            ]
+        },
+        {
+            "keyword": "ece",
+            "synonyms": [
+                "ece"
+            ]
+        },
+        {
+            "keyword": "eee",
+            "synonyms": [
+                "eee"
+            ]
+        },
+        {
+            "keyword": "mech",
+            "synonyms": [
+                "mech"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "name": "object_2",
+    "roles": [
+        "object_2"
+    ],
+    "lookups": [
+        "free-text",
+        "keywords"
+    ],
+    "keywords": [
+        {
+            "keyword": "1-",
+            "synonyms": [
+                "1-"
+            ]
+        },
+        {
+            "keyword": "1-1",
+            "synonyms": [
+                "1-1",
+                "1-1 sem"
+            ]
+        },
+        {
+            "keyword": "1-2",
+            "synonyms": [
+                "1-2",
+                "1-2 sem"
+            ]
+        },
+        {
+            "keyword": "2-1",
+            "synonyms": [
+                "2-1"
+            ]
+        },
+        {
+            "keyword": "2-2",
+            "synonyms": [
+                "2-2"
+            ]
+        },
+        {
+            "keyword": "3-1",
+            "synonyms": [
+                "3-1"
+            ]
+        },
+        {
+            "keyword": "3-2",
+            "synonyms": [
+                "3-2"
+            ]
+        },
+        {
+            "keyword": "4-1",
+            "synonyms": [
+                "4-1"
+            ]
+        },
+        {
+            "keyword": "4-2",
+            "synonyms": [
+                "4-2"
+            ]
+        }
+    ]
+}

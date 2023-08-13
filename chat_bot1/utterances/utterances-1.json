@@ -1,0 +1,1098 @@
+{
+    "utterances": [
+        {
+            "text": "can i know about college  info",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 17,
+                    "end": 24,
+                    "body": "college",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "information"
+        },
+        {
+            "text": "can i know about college info",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 17,
+                    "end": 24,
+                    "body": "college",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "information"
+        },
+        {
+            "text": "civil information",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 0,
+                    "end": 5,
+                    "body": "civil",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "information"
+        },
+        {
+            "text": "cse faculty 1-1",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 0,
+                    "end": 3,
+                    "body": "cse",
+                    "entities": []
+                },
+                {
+                    "entity": "object4:object4",
+                    "start": 4,
+                    "end": 11,
+                    "body": "faculty",
+                    "entities": []
+                },
+                {
+                    "entity": "object_2:object_2",
+                    "start": 12,
+                    "end": 15,
+                    "body": "1-1",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "information"
+        },
+        {
+            "text": "ece info",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 0,
+                    "end": 3,
+                    "body": "ece",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "information"
+        },
+        {
+            "text": "faculty of cse - 1-1",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 11,
+                    "end": 14,
+                    "body": "cse",
+                    "entities": []
+                },
+                {
+                    "entity": "object_2:object_2",
+                    "start": 17,
+                    "end": 20,
+                    "body": "1-1",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "location_details"
+        },
+        {
+            "text": "faculty of cse 1-1",
+            "entities": [
+                {
+                    "entity": "object4:object4",
+                    "start": 0,
+                    "end": 7,
+                    "body": "faculty",
+                    "entities": []
+                },
+                {
+                    "entity": "object1:object1",
+                    "start": 11,
+                    "end": 14,
+                    "body": "cse",
+                    "entities": []
+                },
+                {
+                    "entity": "object_2:object_2",
+                    "start": 15,
+                    "end": 18,
+                    "body": "1-1",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "information"
+        },
+        {
+            "text": "how do i reach canteen",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 15,
+                    "end": 22,
+                    "body": "canteen",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "location_details"
+        },
+        {
+            "text": "how do i reach the canteen building",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 19,
+                    "end": 26,
+                    "body": "canteen",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "location_details"
+        },
+        {
+            "text": "how do i reach the cse building",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 19,
+                    "end": 22,
+                    "body": "cse",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "location_details"
+        },
+        {
+            "text": "how do i reach the mech block",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 19,
+                    "end": 23,
+                    "body": "mech",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "location_details"
+        },
+        {
+            "text": "i need information about civil department",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 25,
+                    "end": 30,
+                    "body": "civil",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "information"
+        },
+        {
+            "text": "i want to know about college",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 21,
+                    "end": 28,
+                    "body": "college",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "information"
+        },
+        {
+            "text": "i want to know information about the civil department",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 37,
+                    "end": 42,
+                    "body": "civil",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "information"
+        },
+        {
+            "text": "i wish know about the mech building",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 22,
+                    "end": 26,
+                    "body": "mech",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "location_details"
+        },
+        {
+            "text": "i wish to know about ece 4-1 fee details",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 21,
+                    "end": 24,
+                    "body": "ece",
+                    "entities": []
+                },
+                {
+                    "entity": "object_2:object_2",
+                    "start": 25,
+                    "end": 28,
+                    "body": "4-1",
+                    "entities": []
+                },
+                {
+                    "entity": "object4:object4",
+                    "start": 29,
+                    "end": 32,
+                    "body": "fee",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "information"
+        },
+        {
+            "text": "i wish to know about ece branch",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 21,
+                    "end": 24,
+                    "body": "ece",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "information"
+        },
+        {
+            "text": "i wish to know about the ece 4-1 fee details",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 25,
+                    "end": 28,
+                    "body": "ece",
+                    "entities": []
+                },
+                {
+                    "entity": "object4:object4",
+                    "start": 33,
+                    "end": 36,
+                    "body": "fee",
+                    "entities": []
+                },
+                {
+                    "entity": "object_2:object_2",
+                    "start": 29,
+                    "end": 32,
+                    "body": "4-1",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "information"
+        },
+        {
+            "text": "i wish to know about the faculty of college",
+            "entities": [
+                {
+                    "entity": "object4:object4",
+                    "start": 25,
+                    "end": 32,
+                    "body": "faculty",
+                    "entities": []
+                },
+                {
+                    "entity": "object1:object1",
+                    "start": 36,
+                    "end": 43,
+                    "body": "college",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "information"
+        },
+        {
+            "text": "i wish to know about the faculty of ece 4-1",
+            "entities": [
+                {
+                    "entity": "object4:object4",
+                    "start": 25,
+                    "end": 32,
+                    "body": "faculty",
+                    "entities": []
+                },
+                {
+                    "entity": "object1:object1",
+                    "start": 36,
+                    "end": 39,
+                    "body": "ece",
+                    "entities": []
+                },
+                {
+                    "entity": "object_2:object_2",
+                    "start": 40,
+                    "end": 43,
+                    "body": "4-1",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "information"
+        },
+        {
+            "text": "i wish to know about the fee structure of ece",
+            "entities": [
+                {
+                    "entity": "object4:object4",
+                    "start": 25,
+                    "end": 28,
+                    "body": "fee",
+                    "entities": []
+                },
+                {
+                    "entity": "object1:object1",
+                    "start": 42,
+                    "end": 45,
+                    "body": "ece",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "information"
+        },
+        {
+            "text": "i wish to know about the subjects of 4-1 ece",
+            "entities": [
+                {
+                    "entity": "object4:object4",
+                    "start": 25,
+                    "end": 33,
+                    "body": "subjects",
+                    "entities": []
+                },
+                {
+                    "entity": "object_2:object_2",
+                    "start": 37,
+                    "end": 40,
+                    "body": "4-1",
+                    "entities": []
+                },
+                {
+                    "entity": "object1:object1",
+                    "start": 41,
+                    "end": 44,
+                    "body": "ece",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "information"
+        },
+        {
+            "text": "i would like to know about the IT branch",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 31,
+                    "end": 33,
+                    "body": "IT",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "information"
+        },
+        {
+            "text": "i would like to know the deatils about civil branch",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 39,
+                    "end": 44,
+                    "body": "civil",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "information"
+        },
+        {
+            "text": "info about 2-1 mech exams",
+            "entities": [
+                {
+                    "entity": "object_2:object_2",
+                    "start": 11,
+                    "end": 14,
+                    "body": "2-1",
+                    "entities": []
+                },
+                {
+                    "entity": "object1:object1",
+                    "start": 15,
+                    "end": 19,
+                    "body": "mech",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "time_information"
+        },
+        {
+            "text": "info ece 3-2 fee",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 5,
+                    "end": 8,
+                    "body": "ece",
+                    "entities": []
+                },
+                {
+                    "entity": "object_2:object_2",
+                    "start": 9,
+                    "end": 12,
+                    "body": "3-2",
+                    "entities": []
+                },
+                {
+                    "entity": "object4:object4",
+                    "start": 13,
+                    "end": 16,
+                    "body": "fee",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "information"
+        },
+        {
+            "text": "ist 4-1 cse subjects",
+            "entities": [
+                {
+                    "entity": "object_2:object_2",
+                    "start": 4,
+                    "end": 7,
+                    "body": "4-1",
+                    "entities": []
+                },
+                {
+                    "entity": "object1:object1",
+                    "start": 8,
+                    "end": 11,
+                    "body": "cse",
+                    "entities": []
+                },
+                {
+                    "entity": "object4:object4",
+                    "start": 12,
+                    "end": 20,
+                    "body": "subjects",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "information"
+        },
+        {
+            "text": "list 4-1 cse subjects",
+            "entities": [
+                {
+                    "entity": "object_2:object_2",
+                    "start": 5,
+                    "end": 8,
+                    "body": "4-1",
+                    "entities": []
+                },
+                {
+                    "entity": "object1:object1",
+                    "start": 9,
+                    "end": 12,
+                    "body": "cse",
+                    "entities": []
+                },
+                {
+                    "entity": "object4:object4",
+                    "start": 13,
+                    "end": 21,
+                    "body": "subjects",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "information"
+        },
+        {
+            "text": "list 4-1 csesubjects",
+            "entities": [
+                {
+                    "entity": "object_2:object_2",
+                    "start": 5,
+                    "end": 8,
+                    "body": "4-1",
+                    "entities": []
+                },
+                {
+                    "entity": "object1:object1",
+                    "start": 9,
+                    "end": 12,
+                    "body": "cse",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "information"
+        },
+        {
+            "text": "mech info",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 0,
+                    "end": 4,
+                    "body": "mech",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "information"
+        },
+        {
+            "text": "subjects list cse 1-1",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 14,
+                    "end": 17,
+                    "body": "cse",
+                    "entities": []
+                },
+                {
+                    "entity": "object_2:object_2",
+                    "start": 18,
+                    "end": 21,
+                    "body": "1-1",
+                    "entities": []
+                },
+                {
+                    "entity": "object4:object4",
+                    "start": 0,
+                    "end": 9,
+                    "body": "subjects ",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "information"
+        },
+        {
+            "text": "what are the subjects in ece 2-2",
+            "entities": [
+                {
+                    "entity": "object4:object4",
+                    "start": 13,
+                    "end": 21,
+                    "body": "subjects",
+                    "entities": []
+                },
+                {
+                    "entity": "object1:object1",
+                    "start": 25,
+                    "end": 28,
+                    "body": "ece",
+                    "entities": []
+                },
+                {
+                    "entity": "object_2:object_2",
+                    "start": 29,
+                    "end": 32,
+                    "body": "2-2",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "information"
+        },
+        {
+            "text": "when are 4-1 ece supplementary exams",
+            "entities": [
+                {
+                    "entity": "object_2:object_2",
+                    "start": 9,
+                    "end": 12,
+                    "body": "4-1",
+                    "entities": []
+                },
+                {
+                    "entity": "object1:object1",
+                    "start": 13,
+                    "end": 16,
+                    "body": "ece",
+                    "entities": []
+                },
+                {
+                    "entity": "object_3:object_3",
+                    "start": 17,
+                    "end": 30,
+                    "body": "supplementary",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "time_information"
+        },
+        {
+            "text": "when are the 3-1 ece exams started",
+            "entities": [
+                {
+                    "entity": "object_2:object_2",
+                    "start": 13,
+                    "end": 16,
+                    "body": "3-1",
+                    "entities": []
+                },
+                {
+                    "entity": "object1:object1",
+                    "start": 17,
+                    "end": 20,
+                    "body": "ece",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "time_information"
+        },
+        {
+            "text": "when are the 4-1 supply exams",
+            "entities": [
+                {
+                    "entity": "object_2:object_2",
+                    "start": 13,
+                    "end": 16,
+                    "body": "4-1",
+                    "entities": []
+                },
+                {
+                    "entity": "object_3:object_3",
+                    "start": 17,
+                    "end": 23,
+                    "body": "supply",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "time_information"
+        },
+        {
+            "text": "when are the 4-2 it supplementary exams",
+            "entities": [
+                {
+                    "entity": "object_2:object_2",
+                    "start": 13,
+                    "end": 16,
+                    "body": "4-2",
+                    "entities": []
+                },
+                {
+                    "entity": "object1:object1",
+                    "start": 17,
+                    "end": 19,
+                    "body": "it",
+                    "entities": []
+                },
+                {
+                    "entity": "object_3:object_3",
+                    "start": 20,
+                    "end": 33,
+                    "body": "supplementary",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "time_information"
+        },
+        {
+            "text": "when are the classes of ece start from",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 24,
+                    "end": 27,
+                    "body": "ece",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "time_information"
+        },
+        {
+            "text": "when are the mid exams for 4-1 started",
+            "entities": [
+                {
+                    "entity": "object_3:object_3",
+                    "start": 13,
+                    "end": 16,
+                    "body": "mid",
+                    "entities": []
+                },
+                {
+                    "entity": "object_2:object_2",
+                    "start": 27,
+                    "end": 30,
+                    "body": "4-1",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "time_information"
+        },
+        {
+            "text": "when are the supplementary exams for mech 3-2",
+            "entities": [
+                {
+                    "entity": "object_3:object_3",
+                    "start": 13,
+                    "end": 26,
+                    "body": "supplementary",
+                    "entities": []
+                },
+                {
+                    "entity": "object1:object1",
+                    "start": 37,
+                    "end": 41,
+                    "body": "mech",
+                    "entities": []
+                },
+                {
+                    "entity": "object_2:object_2",
+                    "start": 42,
+                    "end": 45,
+                    "body": "3-2",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "time_information"
+        },
+        {
+            "text": "when does college start",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 10,
+                    "end": 17,
+                    "body": "college",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "time_information"
+        },
+        {
+            "text": "when does the ece branch commence its classes",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 14,
+                    "end": 17,
+                    "body": "ece",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "time_information"
+        },
+        {
+            "text": "when exam 2-2 ece",
+            "entities": [
+                {
+                    "entity": "object_2:object_2",
+                    "start": 10,
+                    "end": 13,
+                    "body": "2-2",
+                    "entities": []
+                },
+                {
+                    "entity": "object1:object1",
+                    "start": 14,
+                    "end": 17,
+                    "body": "ece",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "time_information"
+        },
+        {
+            "text": "when the exam 2-2 eee",
+            "entities": [
+                {
+                    "entity": "object_2:object_2",
+                    "start": 14,
+                    "end": 17,
+                    "body": "2-2",
+                    "entities": []
+                },
+                {
+                    "entity": "object1:object1",
+                    "start": 18,
+                    "end": 21,
+                    "body": "eee",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "time_information"
+        },
+        {
+            "text": "when will 1-2 sem exams starts",
+            "entities": [
+                {
+                    "entity": "object_2:object_2",
+                    "start": 10,
+                    "end": 17,
+                    "body": "1-2 sem",
+                    "entities": [
+                        {
+                            "entity": "object_3:object_3",
+                            "start": 4,
+                            "end": 7,
+                            "body": "sem",
+                            "entities": []
+                        }
+                    ]
+                }
+            ],
+            "traits": [],
+            "intent": "time_information"
+        },
+        {
+            "text": "when will be 1-1 sem starts",
+            "entities": [
+                {
+                    "entity": "object_2:object_2",
+                    "start": 13,
+                    "end": 20,
+                    "body": "1-1 sem",
+                    "entities": [
+                        {
+                            "entity": "object_3:object_3",
+                            "start": 4,
+                            "end": 7,
+                            "body": "sem",
+                            "entities": []
+                        }
+                    ]
+                }
+            ],
+            "traits": [],
+            "intent": "time_information"
+        },
+        {
+            "text": "where is IT branch",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 9,
+                    "end": 11,
+                    "body": "IT",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "location_details"
+        },
+        {
+            "text": "where is IT department",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 9,
+                    "end": 11,
+                    "body": "IT",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "location_details"
+        },
+        {
+            "text": "where is civil block",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 9,
+                    "end": 14,
+                    "body": "civil",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "location_details"
+        },
+        {
+            "text": "where is cse building",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 9,
+                    "end": 12,
+                    "body": "cse",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "location_details"
+        },
+        {
+            "text": "where is ece block",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 9,
+                    "end": 12,
+                    "body": "ece",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "location_details"
+        },
+        {
+            "text": "where is ece branch",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 9,
+                    "end": 12,
+                    "body": "ece",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "location_details"
+        },
+        {
+            "text": "where is the IT branch",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 12,
+                    "end": 15,
+                    "body": " IT",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "location_details"
+        },
+        {
+            "text": "where is the canteen",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 13,
+                    "end": 20,
+                    "body": "canteen",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "location_details"
+        },
+        {
+            "text": "where is the civil building",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 13,
+                    "end": 18,
+                    "body": "civil",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "location_details"
+        },
+        {
+            "text": "where is the college",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 13,
+                    "end": 20,
+                    "body": "college",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "location_details"
+        },
+        {
+            "text": "where is the cse building",
+            "entities": [
+                {
+                    "entity": "object1:object2",
+                    "start": 13,
+                    "end": 16,
+                    "body": "cse",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "location_details"
+        },
+        {
+            "text": "where is the ece branch",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 13,
+                    "end": 16,
+                    "body": "ece",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "location_details"
+        },
+        {
+            "text": "where is the mech building",
+            "entities": [
+                {
+                    "entity": "object1:object1",
+                    "start": 13,
+                    "end": 17,
+                    "body": "mech",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "location_details"
+        }
+    ]
+}
